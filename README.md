@@ -36,7 +36,7 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
-![Alt Text]([image_url_here](https://github.com/NNguyen-S/NedNguyen/blob/main/sam2.png))
+
 
 
 <!--
